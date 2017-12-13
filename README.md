@@ -10,6 +10,6 @@ make a car faster in DeepTraffic simulation
 
 # The youtube simulation link:
 
-early training stage:
+early training stage: https://youtu.be/iP-a9BhfzNE
 
-trained:
+fully trained: https://youtu.be/qx-tWk3567s
